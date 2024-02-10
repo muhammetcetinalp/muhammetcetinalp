@@ -4,7 +4,7 @@ A Computer Engineering Student from Hacettepe University - Ankara/Turkey
 
 🌱 I’m currently learning Python, Java, JavaScript and C++.
 
-🔭 I’m currently working on Web Development and Machine Learning,Data Science.
+🔭 I’m currently working on Web Development and Fullstack Development.
 
 💬 Ask me about everything you have in your mind!
 
