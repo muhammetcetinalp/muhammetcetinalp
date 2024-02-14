@@ -2,7 +2,7 @@ Hi 👋, I'm Muhammet Cetinalp!
 
 A Computer Engineering Student from Hacettepe University - Ankara/Turkey
 
-🌱 I’m currently learning Python, Java, JavaScript and C++.
+🌱 I’m currently learning Python, Java, JavaScript,React and C++.
 
 🔭 I’m currently working on Web Development and Fullstack Development.
 
